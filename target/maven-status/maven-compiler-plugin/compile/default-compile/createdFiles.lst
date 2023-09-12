@@ -1,0 +1,15 @@
+mk\ukim\finki\wp\kol2022\g3\repository\InterestRepository.class
+mk\ukim\finki\wp\kol2022\g3\config\SecurityConfig.class
+mk\ukim\finki\wp\kol2022\g3\service\Imp\InterestServiceImp.class
+mk\ukim\finki\wp\kol2022\g3\service\InterestService.class
+mk\ukim\finki\wp\kol2022\g3\model\exceptions\InvalidForumUserIdException.class
+mk\ukim\finki\wp\kol2022\g3\service\ForumUserService.class
+mk\ukim\finki\wp\kol2022\g3\repository\ForumUserRepository.class
+mk\ukim\finki\wp\kol2022\g3\model\exceptions\InvalidInterestIdException.class
+mk\ukim\finki\wp\kol2022\g3\model\Interest.class
+mk\ukim\finki\wp\kol2022\g3\service\Imp\ForumUserServiceImp.class
+mk\ukim\finki\wp\kol2022\g3\web\ForumUsersController.class
+mk\ukim\finki\wp\kol2022\g3\model\ForumUser.class
+mk\ukim\finki\wp\kol2022\g3\Kol2022Group3Application.class
+mk\ukim\finki\wp\kol2022\g3\config\DataInitializer.class
+mk\ukim\finki\wp\kol2022\g3\model\ForumUserType.class
